@@ -1,0 +1,9 @@
+name: NPC
+author: alvin0319
+main: alvin0319\NPC\NPCLoader
+version: 1.0.0
+api: 4.0.0
+
+permissions:
+  npc.command:
+    default: op
